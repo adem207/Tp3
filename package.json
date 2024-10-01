@@ -1,0 +1,19 @@
+{
+  "name": "tppp",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.8.0",
+    "@nativescript/theme": "^3.1.0",
+    "axios": "^0.18.1",
+    "js-cookie": "^3.0.5",
+    "nativescript-vue": "~2.9.3",
+    "tns-core-modules": "^6.5.27"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.8.4",
+    "@nativescript/webpack": "~5.0.0",
+    "nativescript-vue-template-compiler": "~2.9.3"
+  }
+}
